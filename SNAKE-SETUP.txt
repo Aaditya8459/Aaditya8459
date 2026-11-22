@@ -1,0 +1,11 @@
+# Optional contribution snake
+#
+# Once the workflow has run successfully and created the `output` branch,
+# you can add this inside the GitHub Analytics section of README.md:
+#
+# <div align="center">
+#   <img width="100%" src="https://raw.githubusercontent.com/Aaditya8459/Aaditya8459/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+# </div>
+#
+# Enable Actions in the repository if prompted, then run:
+# Actions → Generate contribution snake → Run workflow.
