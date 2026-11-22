@@ -1,4 +1,0 @@
-Theme: Lavender / violet / purple with muted maroon accents.
-The README uses your existing GitHub profile image as-is; the banner and cards are coordinated to complement it.
-Update repository links for Think9 and FineMind when their exact URLs are known.
-The snake workflow generates a standard GitHub-dark contribution animation after it is run successfully.
