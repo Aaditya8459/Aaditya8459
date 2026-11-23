@@ -1,396 +1,296 @@
 <div align="center">
 
-<!-- Animated lavender / violet banner, designed to complement the existing maroon embroidered hoodie profile avatar -->
-<img src="assets/lavender-cyber-banner.gif" width="100%" alt="Aaditya's lavender cyber developer workspace banner"/>
+<!-- ═══════════════ PREMIUM ANIMATED HERO ═══════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,35:5B21B6,70:7C3AED,100:C4B5FD&height=220&section=header&text=AADITYA%20MAINDARKAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Expert%20Prompt%20Engineer%20%7C%20AI%20Tool%20Instructor&descSize=20&descColor=EDE9FE&descAlignY=60&animation=fadeIn" alt="Aaditya Maindarkar — Royal Purple AI Engineering Banner"/>
+
+<!-- ═══════════════ KINETIC TYPING ═══════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=900&height=55&lines=Designing+Precision+Prompts+for+Intelligent+AI;Exploring+Agentic+AI+%26+LLM+Workflows;Making+Advanced+AI+Tools+Accessible;Engineering+the+Next+Generation+of+AI+Experiences" alt="Animated AI engineering tagline"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=D8B9FF&center=true&vCenter=true&width=820&height=48&lines=Namaste%2C+I'm+Aaditya+Maindarkar;Software+Engineer+%7C+AI%2FML+%7C+GenAI;Building+Agentic+AI+and+RAG+Applications;Engineering+Scalable+Backend+Systems;Creating+Real-Time+Full-Stack+Experiences" alt="Animated introduction"/>
-
-<br/>
-
-<a href="https://aadigm-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-9B7BCB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/aaditya-maindarkar-848427295/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-7057A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/AadityaGM/"><img src="https://img.shields.io/badge/LEETCODE-Profile-B58AD9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="mailto:adityamaindarkar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-8E536B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://aadigm-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/aaditya-maindarkar-848427295/">
+<img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/AadityaGM/">
+<img src="https://img.shields.io/badge/LEETCODE-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="mailto:adityamaindarkar@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-C4B5FD?style=for-the-badge&logo=gmail&logoColor=1E1B4B" alt="Email"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aaditya8459&label=PROFILE%20VIEWS&color=9675C8&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Aaditya8459?label=Followers&style=flat-square&color=7057A8&logo=github" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/LOCATION-PUNE%2C%20INDIA-8E6BBE?style=flat-square" alt="Pune, India"/>
+<img src="https://komarev.com/ghpvc/?username=Aaditya8459&label=PROFILE+VIEWS&color=5B21B6&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Aaditya8459?label=COMMUNITY&style=flat-square&color=7C3AED&logo=github" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/BASED%20IN-PUNE%2C%20INDIA-4C1D95?style=flat-square" alt="Location"/>
 
 </div>
 
 ---
 
-<h2 align="center">✨ AADITYA'S DEVELOPER SPACE ✨</h2>
+## 👋 Hi, I'm Aaditya Maindarkar
+
+### Expert Prompt Engineer | AI Tool Instructor | Generative AI Enthusiast
+
+I am **Aaditya Gajendra Maindarkar**, a Computer Science Engineering student specializing in Artificial Intelligence, with a passion for prompt engineering, intelligent automation, AI-powered applications, and software engineering.
+
+My goal is to bridge the gap between powerful AI capabilities and practical real-world applications through structured prompting, agentic workflows, and accessible AI education.
+
+> **My philosophy:** Better instructions create better intelligence. Great engineering turns that intelligence into impact.
 
 <div align="center">
 
-### Namaste 🙏 I'm Aaditya Maindarkar
-
-**Software Engineer · AI/ML & Generative AI · Full-Stack Development**
-
-*I turn ideas into intelligent applications — from agentic AI workflows to real-time collaborative systems.*
+<a href="mailto:adityamaindarkar@gmail.com">
+<img src="https://img.shields.io/badge/OPEN%20TO-AI%20COLLABORATIONS-5B21B6?style=for-the-badge&logo=probot&logoColor=white"/>
+</a>
+<a href="https://aadigm-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20WORK-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
----
+### ✦ Developer & Instructor Dashboard
 
-## 🌙 About Me
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-I'm **Aaditya Gajendra Maindarkar**, a Computer Science Engineering student specializing in Artificial Intelligence at G H Raisoni College of Engineering and Management, Pune.
-
-I enjoy engineering products at the intersection of **Generative AI, backend systems, and full-stack development**. My work focuses on connecting models, APIs, databases, and user experiences into practical software.
-
-- 🎓 B.Tech CSE (Artificial Intelligence), **2023–2027**
-- 📊 Academic CGPA: **8.90/10.0**
-- 💼 GenAI Intern — Agentic AI R&D, **OxiqAI**
-- 🤖 Exploring Agentic AI, RAG, LLM integration, and semantic retrieval
-- ⚡ Building with Python, FastAPI, React, Next.js, and Node.js
-- 🔬 CodeBuddy — IEEE undergraduate research project
-- 🧩 **55+ LeetCode problems** solved
-
-**Engineering mindset:** Understand the problem, design the system, build with intent, and improve through measurement.
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="assets/lavender-cyber-banner.jpg" width="100%" alt="Lavender AI developer workspace illustration"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Agentic%20AI-9675C8?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/BUILD-Backend%20%26%20Full%20Stack-7057A8?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/BASED-Pune%2C%20India-8E536B?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
-### 🧭 Current Engineering Focus
-
-| Area | What I work with |
+| Dimension | Details |
 |---|---|
-| Generative AI | LLM integration, RAG, AI agents, prompt engineering |
-| Agentic systems | LangGraph, LangChain, tool-oriented workflows |
-| Backend engineering | Python, FastAPI, Flask, Node.js, REST APIs |
-| Retrieval & data | Embeddings, semantic search, FAISS, Qdrant |
-| Real-time systems | WebSockets, Socket.IO, Redis Pub/Sub |
-| Product engineering | React, Next.js, Docker, testing, CI/CD |
+| 🎯 Professional focus | Prompt Engineering, AI Tooling & Generative AI |
+| 🧠 Current exploration | AI Agents, LLM Pipelines, RAG & Prompt Architecture |
+| 👨‍🏫 Education focus | Making AI tools and workflows easier to understand and use |
+| 💼 Industry experience | GenAI Intern — OxiqAI |
+| 🎓 Education | B.Tech CSE (Artificial Intelligence) |
+| 📈 Academic performance | 8.90 / 10.0 CGPA |
+| 📍 Location | Pune, Maharashtra, India |
+| 🤝 Availability | Open to AI collaborations, workshops and consulting opportunities |
+| 📧 Contact | adityamaindarkar@gmail.com |
+
+**A little AI humor:** I don't argue with AI. I improve the prompt until we agree on the requirements.
 
 ---
 
-## 🧰 Languages & Tools I Have Worked With
+## 🧊 3D Contribution Matrix
 
 <div align="center">
 
-### Programming Languages
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Aaditya's 3D GitHub contribution landscape"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" alt="Python Java JavaScript TypeScript C C++"/>
+<sub>Three-dimensional visualization of my GitHub contribution activity.</sub>
 
-### Frontend & UI Engineering
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React Next.js HTML CSS Tailwind"/>
+---
 
-### Backend & API Engineering
+## 💻 AI Ecosystem & Tech Stack
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" alt="FastAPI Flask Node.js Express"/>
+<div align="center">
 
-### AI / ML & Generative AI
+### 01 — Generative AI, Prompt Engineering & LLMs
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-4C1D95?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-4C1D95?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4C1D95?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Midjourney-4C1D95?style=for-the-badge&logo=midjourney&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-4C1D95?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-4C1D95?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-4C1D95?style=for-the-badge&logo=huggingface&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LangChain-5B477B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-7057A8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-9675C8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Agents-8E6BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-49365F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-7057A8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Qdrant-8C536B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embeddings-9675C8?style=for-the-badge" />
-
-### Databases & Data Engineering
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL MySQL MongoDB Redis"/>
-
-### DevOps, Testing & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman,vscode&theme=dark" alt="Docker Git GitHub GitHub Actions Linux Postman VS Code"/>
-
-</div>
-
-### 🧠 Core Computer Science
-
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks`
-
-### ⚙️ Engineering Practices
-
-`REST API Design` · `WebSockets` · `Redis Pub/Sub` · `SQL Query Optimization` · `Data Validation` · `Pytest` · `Docker Compose` · `CI/CD` · `Debugging` · `API Integration`
-
----
-
-## 💼 Professional Experience
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OxiqAI-GenAI%20Intern-9675C8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-Research%20%26%20Development-7057A8?style=for-the-badge"/>
-
-**Pune, India · June 2026 – September 2026**
-
-</div>
-
-- Contributed to Python/FastAPI backend services and REST APIs for AI-assisted applications.
-- Worked on workflow improvements that reduced manual setup effort by **25%**.
-- Examined data ingestion, validation, preprocessing, and transformation requirements.
-- Integrated retrieval-based and LLM-driven components into backend workflows.
-
----
-
-## 🚀 Featured Engineering Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 CodeBuddy
-**Real-Time Collaborative Code Editor**
-
-A collaborative coding platform for real-time editing, room management, file handling, and code execution.
-
-**Highlights**
-- Socket.IO collaboration and Redis Pub/Sub
-- Tested with 2–10 concurrent users
-- **68.5–75.1 ms** synchronization latency in testing
-- Docker-isolated code execution with timeout and resource controls
-
-`Next.js` `Node.js` `Socket.IO` `Redis` `MongoDB` `Docker`
-
-<a href="https://github.com/Aaditya8459/CodeBuddy"><img src="https://img.shields.io/badge/VIEW%20SOURCE-7057A8?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Think9
-**Central AI Engine**
-
-A full-stack agentic AI platform connecting locally hosted Llama models, document ingestion, semantic retrieval, and source-attributed responses.
-
-**Highlights**
-- LangGraph agentic workflow orchestration
-- Ollama local LLM integration
-- Asynchronous document ingestion
-- Qdrant semantic retrieval
-- Next.js 14 dashboard, Pydantic validation, structured logging, Pytest
-
-`Python` `FastAPI` `LangGraph` `Ollama` `Qdrant` `Next.js`
-
-<details>
-<summary><b>View AI system architecture</b></summary>
-
-```mermaid
-flowchart TD
-    A[Next.js Dashboard] --> B[FastAPI Services]
-    B --> C[LangGraph Orchestration]
-    C --> D[Ollama / Local LLM]
-    B --> E[Document Ingestion]
-    E --> F[Embeddings]
-    F --> G[(Qdrant Vector Store)]
-    G --> C
-    C --> H[Source-Attributed Response]
-    H --> A
-```
-</details>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 FineMind
-**Financial Intelligence Platform**
-
-A financial information retrieval platform designed to retrieve relevant financial information through natural-language queries.
-
-**Highlights**
-- Data preprocessing and embeddings
-- FAISS semantic similarity search
-- PostgreSQL persistence
-- Redis caching
-
-`Python` `FastAPI` `PostgreSQL` `Redis` `FAISS`
-
-<details>
-<summary><b>View retrieval architecture</b></summary>
-
-```mermaid
-flowchart TD
-    A[Natural-Language Query] --> B[FastAPI]
-    B --> C[Query Embedding]
-    C --> D[FAISS Semantic Search]
-    D --> E[(PostgreSQL Persistence)]
-    B <--> F[(Redis Cache)]
-    D --> G[Relevant Financial Context]
-    G --> H[Retrieved Information Response]
-```
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 IEEE Undergraduate Research
-**CodeBuddy Research Project**
-
-CodeBuddy was also recognized as an undergraduate research project through IEEE.
-
-**Engineering themes**
-- Real-time collaboration
-- Distributed application components
-- Containerized code execution
-- Performance measurement
-
-</td>
-</tr>
-</table>
-
-> CodeBuddy is linked to its verified public repository. Think9 and FineMind are described from my CV; their exact public repository URLs are not linked yet.
-
----
-
-## 📊 GitHub Stats & Developer Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaditya8459&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=171321&title_color=CDB4F4&icon_color=B58AD9&text_color=E8DFF5" alt="GitHub statistics"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Aaditya8459&theme=tokyonight&hide_border=true&background=171321&ring=B58AD9&fire=CDB4F4&currStreakLabel=CDB4F4" alt="GitHub streak"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Integration-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Systems-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Search-5B21B6?style=for-the-badge"/>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya8459&layout=compact&hide_border=true&theme=tokyonight&bg_color=171321&title_color=CDB4F4&text_color=E8DFF5&langs_count=8" alt="Most used languages"/>
+### 02 — Programming Languages & Backend Engineering
 
-</div>
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-6D28D9?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-### 🏅 GitHub Trophy Cabinet
+<br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-6D28D9?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-6D28D9?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=for-the-badge"/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aaditya8459&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 🧩 Tech Stack — Engineering Domains
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20%26%20LLM%20ENGINEERING-LangChain%20%7C%20LangGraph%20%7C%20RAG-9675C8?style=for-the-badge"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/BACKEND%20ENGINEERING-Python%20%7C%20FastAPI%20%7C%20Node.js-7057A8?style=for-the-badge"/>
+
+### 03 — Frontend & Interface Engineering
+
+<img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-7C3AED?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/FRONTEND%20ENGINEERING-React%20%7C%20Next.js%20%7C%20TypeScript-B58AD9?style=for-the-badge"/>
+
+### 04 — Data, Retrieval & Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-8B5CF6?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-8B5CF6?style=for-the-badge&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-8B5CF6?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/DATA%20%26%20RETRIEVAL-PostgreSQL%20%7C%20Redis%20%7C%20FAISS-8E6BBE?style=for-the-badge"/>
+
+### 05 — DevOps, Automation & Productivity
+
+<img src="https://img.shields.io/badge/Docker-A78BFA?style=for-the-badge&logo=docker&logoColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/Git-A78BFA?style=for-the-badge&logo=git&logoColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-A78BFA?style=for-the-badge&logo=githubactions&logoColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/Linux-A78BFA?style=for-the-badge&logo=linux&logoColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/Postman-A78BFA?style=for-the-badge&logo=postman&logoColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/Vercel-A78BFA?style=for-the-badge&logo=vercel&logoColor=1E1B4B"/>
+<img src="https://img.shields.io/badge/Notion-A78BFA?style=for-the-badge&logo=notion&logoColor=1E1B4B"/>
+
+</div>
+
+### Core Engineering Competencies
+
+`Data Structures & Algorithms` `Object-Oriented Programming` `DBMS` `Operating Systems` `Computer Networks` `API Integration` `WebSockets` `Redis Pub/Sub` `Pytest` `Docker Compose` `CI/CD` `SQL Optimization`
+
+---
+
+## 🐍 Contribution Snake — Kinetic Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya8459/Aaditya8459/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya8459/Aaditya8459/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Aaditya8459/Aaditya8459/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect & Learn With Me
+
+<div align="center">
+
+<a href="https://aadigm-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/aaditya-maindarkar-848427295/">
+<img src="https://img.shields.io/badge/LINKEDIN-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Aaditya8459">
+<img src="https://img.shields.io/badge/GITHUB-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/AadityaGM/">
+<img src="https://img.shields.io/badge/LEETCODE-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="mailto:adityamaindarkar@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/DEVOPS%20%26%20QUALITY-Docker%20%7C%20Pytest%20%7C%20CI%2FCD-8C536B?style=for-the-badge"/>
+
+**Let's exchange ideas, explore AI, and build something meaningful.**
 
 </div>
 
 ---
 
-## ⭐ Pinned & Public Repositories
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Aaditya8459&repo=CodeBuddy&theme=tokyonight&hide_border=true&bg_color=171321&title_color=CDB4F4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaditya8459&repo=CodeBuddy&theme=tokyonight&hide_border=true&bg_color=171321&title_color=CDB4F4" width="49%" alt="CodeBuddy repository card"/></a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Aaditya8459&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=171321&title_color=CDB4F4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaditya8459&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=171321&title_color=CDB4F4" width="49%" alt="Portfolio repository card"/></a>
-
-</div>
-
-**More public repositories:** [Aaditya](https://github.com/Aaditya8459/Aaditya) · [IRTM-Project](https://github.com/Aaditya8459/IRTM-Project) · [MyPortfolio](https://github.com/Aaditya8459/MyPortfolio) · [ExproTech-New](https://github.com/Aaditya8459/ExproTech-New) · [All repositories](https://github.com/Aaditya8459?tab=repositories)
-
----
-
-## 💬 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aaditya8459&theme=radical&no-bg=true&no-frame=false&margin-w=10&column=7" alt="GitHub achievement trophies"/>
 
 </div>
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🌐 Open Source & AI Instruction
+
+I am passionate about making AI technology more approachable and useful.
+
+My interests combine structured prompt engineering, AI tool exploration, intelligent application development, and practical developer education.
+
+I want to help developers move beyond simply using AI tools and understand how to direct, integrate, evaluate, and build with them.
+
+### My Areas of Focus
+
+- **Prompt Engineering:** Structured prompts, instruction design, contextual prompting and output evaluation.
+- **AI Tool Education:** Exploring AI platforms and communicating practical workflows.
+- **Agentic AI:** Intelligent agents, orchestration, tool integration and autonomous workflows.
+- **LLM Engineering:** Model integration, embeddings, semantic retrieval and RAG.
+- **Developer Enablement:** Clear technical explanations, practical examples and reproducible workflows.
+- **Open Source:** Building and improving accessible software solutions.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ORACLE-Agentic%20AI%20Certified%20Foundations%20Associate-8C536B?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-Introduction%20to%20Generative%20AI-7057A8?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IEEE-CodeBuddy%20Undergraduate%20Research-9675C8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LEETCODE-55%2B%20PROBLEMS-B58AD9?style=for-the-badge&logo=leetcode&logoColor=white"/>
+`Prompt Engineering` `AI Agents` `LLM Workflows` `RAG Systems` `Developer Education` `Open Source`
 
 </div>
 
 ---
 
-## 🎓 Education
-
-**G H Raisoni College of Engineering and Management**  
-B.Tech — Computer Science Engineering (Artificial Intelligence)  
-Pune, India · `2023–2027`
+## 🏆 Key Milestones
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ACADEMIC%20CGPA-8.90%2F10.0-9675C8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.90%2F10.0-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEETCODE-55%2B%20PROBLEMS-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERNSHIP-OXIQAI-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-IEEE%20RESEARCH-7C3AED?style=for-the-badge"/>
 
 </div>
 
-Relevant coursework: Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks.
+| Achievement | Details |
+|---|---|
+| Oracle Certification | Agentic AI Certified Foundations Associate |
+| Google Cloud | Introduction to Generative AI |
+| IEEE | CodeBuddy — Undergraduate Research Project |
+| OxiqAI | GenAI Internship — Agentic AI R&D |
+| Engineering | 25% reduction in manual setup effort in an internship workflow |
+| CodeBuddy | 68.5–75.1 ms synchronization latency in testing |
+| Problem Solving | 55+ LeetCode problems solved |
+| Academics | 8.90/10.0 CGPA |
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 Live GitHub & Activity Stats
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Aaditya8459/Aaditya8459/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+### GitHub Overview
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aaditya8459&show_icons=true&hide_border=false&border_color=5B21B6&bg_color=0D1117&title_color=C4B5FD&text_color=EDE9FE&icon_color=8B5CF6&rank_icon=github&include_all_commits=true" alt="GitHub overview statistics"/>
 
-<div align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya8459&background=0D1117&border=5B21B6&stroke=7C3AED&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=EDE9FE&currStreakNum=FFFFFF&sideNums=C4B5FD&dates=9CA3AF" alt="GitHub contribution streak"/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya8459&bg_color=171321&color=CDB4F4&line=9675C8&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20TIMELINE" alt="Contribution timeline"/>
+<br/><br/>
 
-</div>
+### Most Used Languages
 
----
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya8459&layout=compact&langs_count=8&hide_border=false&border_color=5B21B6&bg_color=0D1117&title_color=C4B5FD&text_color=EDE9FE" alt="Most used programming languages"/>
 
-## ☕ Support & Collaborate
+<br/><br/>
 
-If you find my projects interesting, explore my repositories, share feedback, or connect for a technical collaboration.
+### Contribution Timeline
 
-<div align="center">
-
-<a href="https://github.com/Aaditya8459?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7057A8?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://aadigm-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-9675C8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:adityamaindarkar@gmail.com"><img src="https://img.shields.io/badge/LET'S%20COLLABORATE-8C536B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya8459&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" alt="GitHub activity timeline"/>
 
 </div>
 
@@ -398,10 +298,16 @@ If you find my projects interesting, explore my repositories, share feedback, or
 
 <div align="center">
 
-### 🌌 Namaste! Thanks for visiting my corner of GitHub.
+### ✦ BUILDING INTELLIGENCE. DESIGNING BETTER PROMPTS. ENGINEERING IMPACT. ✦
 
-**Building intelligent systems · Engineering meaningful solutions · Learning every day**
+*Thanks for exploring my developer portfolio.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21152F,35:5B3A82,70:9675C8,100:D8C5F0&height=130&section=footer" width="100%" alt="Lavender violet animated-style footer"/>
+<a href="https://aadigm-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:7C3AED,100:4C1D95&height=100&section=footer&animation=fadeIn" alt="Royal purple and lavender footer wave"/>
 
 </div>
