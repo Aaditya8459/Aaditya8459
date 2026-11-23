@@ -171,6 +171,49 @@ My instruction focus is to make AI concepts approachable and actionable—helpin
 ### Full-Stack & Backend
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,fastapi,flask&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind, Node.js, Express, FastAPI and Flask"/>
 
+### AI Frameworks & Libraries
+
+**Machine Learning, Data Science & Visualization**
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,matplotlib,seaborn&theme=dark" alt="NumPy, Pandas, Scikit-learn, Matplotlib and Seaborn"/>
+<img src="https://img.shields.io/badge/SciPy-Scientific%20Computing-8E6BBE?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+
+**Deep Learning & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch and OpenCV"/>
+<img src="https://img.shields.io/badge/Keras-Deep%20Learning-B58AD9?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/ONNX-Model%20Interoperability-7057A8?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+
+**Generative AI, LLMs & Agentic AI**
+
+<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-9675C8?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-7057A8?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LlamaIndex-RAG%20Framework-8E536B?style=flat-square" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/CrewAI-Multi--Agent%20Systems-9675C8?style=flat-square" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/AutoGen-Agent%20Framework-7057A8?style=flat-square" alt="AutoGen"/>
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-5B477B?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-B58AD9?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face Transformers"/>
+<img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-8E536B?style=flat-square" alt="Model Context Protocol"/>
+<img src="https://img.shields.io/badge/FastMCP-MCP%20Development-7057A8?style=flat-square" alt="FastMCP"/>
+<img src="https://img.shields.io/badge/PydanticAI-Type--Safe%20Agents-9675C8?style=flat-square&logo=pydantic&logoColor=white" alt="PydanticAI"/>
+<img src="https://img.shields.io/badge/LiteLLM-LLM%20Gateway-5B477B?style=flat-square" alt="LiteLLM"/>
+
+**RAG, Vector Search & Embeddings**
+
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-7057A8?style=flat-square" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Qdrant-Vector%20Database-8E536B?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/Chroma-Vector%20Store-9675C8?style=flat-square" alt="Chroma"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-Embeddings-B58AD9?style=flat-square" alt="Sentence Transformers"/>
+
+**LLM Evaluation, Observability & Experiment Tracking**
+
+<img src="https://img.shields.io/badge/Ragas-RAG%20Evaluation-9675C8?style=flat-square" alt="Ragas"/>
+<img src="https://img.shields.io/badge/DeepEval-LLM%20Testing-7057A8?style=flat-square" alt="DeepEval"/>
+<img src="https://img.shields.io/badge/LangSmith-Tracing%20%26%20Evaluation-8E536B?style=flat-square" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/MLflow-ML%20Lifecycle-5B477B?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-Experiment%20Tracking-B58AD9?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights and Biases"/>
+<img src="https://img.shields.io/badge/Promptfoo-Prompt%20Evaluation-7057A8?style=flat-square" alt="Promptfoo"/>
+
 ### Data, Databases & Infrastructure
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,githubactions,linux,postman&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, GitHub, GitHub Actions, Linux and Postman"/>
 
